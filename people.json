@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Rajni",
+        "age": 69,
+        "email": "rajini@superstar.com"
+    },
+    {
+        "id": 2,
+        "name": "Mahesh Babu",
+        "age": 49,
+        "email": "mahesh@superstar.com"
+    },
+    {
+        "id": 3,
+        "name": "Kalyan Babu",
+        "age": 52,
+        "email": "kalayn@powerstar.com"
+    },
+    {
+        "age": 12,
+        "email": "abcd@superstar.com",
+        "id": 4,
+        "name": "xztydb"
+    }
+]
